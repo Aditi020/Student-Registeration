@@ -68,5 +68,4 @@ public class StudentController {
         Student student = repo.findById(id).orElseThrow(() -> new RuntimeException("Student not found"));
         repo.delete(student);
     }
-
 }
