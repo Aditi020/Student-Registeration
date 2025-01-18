@@ -1,0 +1,4 @@
+com/student_management_system/student_management_system/controller/StudentController.class
+com/student_management_system/student_management_system/entity/Student.class
+com/student_management_system/student_management_system/repository/StudentRepository.class
+com/student_management_system/student_management_system/StudentManagementSystemApplication.class
